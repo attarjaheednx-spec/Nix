@@ -1,0 +1,6 @@
+{
+  "name": "Attar Atelier",
+  "description": "Professional artisanal attar & pure perfume oils boutique, olfactory notes pyramid, bespoke blending studio, and fragrance wardrobe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
